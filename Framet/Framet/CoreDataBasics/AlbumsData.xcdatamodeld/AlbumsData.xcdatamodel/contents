@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19461" systemVersion="20G165" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="CDAlbum" representedClassName=".CDAlbum" syncable="YES">
+        <attribute name="imageIdentifiers" optional="YES" attributeType="String"/>
+        <attribute name="previewImageIdentifier" optional="YES" attributeType="String" defaultValueString="baseEmptyImage"/>
+        <attribute name="title" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="CDAlbum" positionX="-1803.495666503906" positionY="2543.194976806641" width="115.712158203125" height="88"/>
+    </elements>
+</model>
